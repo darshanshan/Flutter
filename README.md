@@ -1,10 +1,3 @@
-# Curved Design
-
-Code for a simple ui screen created with flutter.
-
-Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
-
-How do I code this - https://youtu.be/K1uH_SN4X0w
 
 ## Screenshots
 
